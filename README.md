@@ -3,4 +3,4 @@ The App is called "Memories" and it is a simple social media app that allows use
 
 # The partially completed front-end looks like the following<br/>
 
-<img width="1440" alt="Screen Shot 2022-08-31 at 12 08 09" src="https://user-images.githubusercontent.com/39294611/187762361-85875f95-6023-4367-8461-e801b4604c47.png">
+<img width="1440" alt="Screen Shot 2022-09-03 at 22 26 20" src="https://user-images.githubusercontent.com/39294611/188298819-498251c6-9c69-4b6a-9509-dd77a570c9a6.png">
